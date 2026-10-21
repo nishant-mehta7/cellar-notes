@@ -1,0 +1,10 @@
+- [ ] Create Supabase project
+- [ ] Run supabase/schema.sql
+- [ ] Enable email authentication and create your account
+- [ ] Disable public sign-ups after account creation
+- [ ] Open index.html and configure the Supabase URL and publishable/anon key
+- [ ] Import data/starter-import.csv once; review any questionable vintage/cost details
+- [ ] Deploy static files to Vercel, Netlify, or Cloudflare Pages
+- [ ] Configure same Supabase connection on iPhone and computer
+- [ ] Import remaining Garagiste history, then Wine Spies, Last Bottle, WTSO and K&L Wines
+- [ ] Reconcile duplicates and bottles consumed before treating counts/spend as final
